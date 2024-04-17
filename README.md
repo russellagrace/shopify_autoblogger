@@ -29,7 +29,7 @@ Basic Instructions
 13. In terminal you will need to install these libraies:
     > python -m pip install nltk or pip install nltk
     > python -m pip install openai or pip install openai
-    > python -m pip install shopify or pip install shopify
+    > python -m pip install ShopifyAPI or pip install ShopifyAPI
 14. Once you installed these libraries right click on shopify_autoblogger.py and select Run Python File in Terminal
 
 15. Enjoy!
